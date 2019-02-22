@@ -1,6 +1,6 @@
 # publicaciones -medias
 
-##Vissual 4 the masses<br>
+## Vissual 4 the masses<br>
 <img id="usr_img" alt="Visuals For The Masses" src="https://d3wo5wojvuv7l.cloudfront.net/t_square_limited_320/images.spreaker.com/original/132ff34bfe028b0777cb67c05db94b1f.jpg" width="200" height="200">
 <br><br>
 
